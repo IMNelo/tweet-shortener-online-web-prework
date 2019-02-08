@@ -1,6 +1,12 @@
 # Write your code here.
   def word_substituter
-    
+    "hello" becomes 'hi'
+    "to, two, too" become '2' 
+    "for, four" become '4'
+    'be' becomes 'b'
+    'you' becomes 'u'
+    "at" becomes "@" 
+    "and" becomes "&"
   end
   
   # Question 1
