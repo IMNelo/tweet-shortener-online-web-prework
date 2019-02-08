@@ -11,15 +11,13 @@ dictionary = {
   }
 
   
-def word_substituter(string)
+def word_substituter(tweet)
   dictionary.each do |key, value|
     
   end 
 end
   
   
-def bulk_tweet_shortener(string)
-  dictionary.each do |key, value|
-    
-  end 
+def bulk_tweet_shortener(tweets)
+  
 end
