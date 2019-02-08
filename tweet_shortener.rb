@@ -18,7 +18,7 @@ def word_substituter(string)
 end
   
   
-def word_substituter(string)
+def bulk_tweet_shortener(string)
   dictionary.each do |key, value|
     
   end 
