@@ -9,7 +9,7 @@
 "and" becomes "&"
   }
   
-  def word_substituter
+  def word_substituter(string)
     "hello" becomes 'hi'
     "to, two, too" become '2' 
     "for, four" become '4'
