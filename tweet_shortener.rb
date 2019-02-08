@@ -17,3 +17,9 @@ def word_substituter(string)
   end 
 end
   
+  
+def word_substituter(string)
+  dictionary.each do |key, value|
+    
+  end 
+end
